@@ -44,6 +44,5 @@ O projeto foi criado utilizando a ferramenta **Greenfoot**, com foco em aplicar 
 3. Abra o arquivo `project.greenfoot` dentro do ambiente Greenfoot.
 4. Clique em **Run**.
 
-![Screenshot do Jogo](./screenshots/jogo.png)
-
+[![Assista ao vídeo do jogo](https://img.youtube.com/vi/ID_DO_VIDEO/0.jpg)](https://www.youtube.com/watch?v=vsoOfMhOli8)
 
